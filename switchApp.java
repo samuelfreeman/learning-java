@@ -27,5 +27,3 @@ public class switchApp {
         }
     }
 }
-// Assignment:
-// enter a day of the week

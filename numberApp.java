@@ -7,7 +7,7 @@ public class numberApp {
     // create object
     public static void main(String[] args) {
         // declare variable
-        int num;
+        int num ;
         // instantiate scanner
         Scanner myScanner = new Scanner(System.in);
         // display "enter a number"
